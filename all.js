@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	Parse.initialize("0b3ogaHPCwFWaeZuKQ6qWtB8SXECIVRFjfJmbqjA", "x8MdDZjvhL0Bv1rCJPIsW9VYT1kTzqk4l0aiCNhs");
+	Parse.initialize("YOUR KEY", "IS HERE");
 
 	$('#login').click(function(){
 		var username, password;
